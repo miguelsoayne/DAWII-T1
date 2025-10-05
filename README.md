@@ -1,7 +1,9 @@
 🧩 DAWII-T1 — Proyecto Examen T1
 
 Curso: Desarrollo de Aplicaciones Web II
+
 Docente: Santos Torres César Enrique
+
 Estudiante: Soayne Magaño Miguel Alejandro
 
 📘 Descripción del Proyecto
